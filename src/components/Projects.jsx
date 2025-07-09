@@ -20,7 +20,7 @@ const Projects = () => {
                 <span className="tag">Responsive</span>
               </div>
               <div className="project-links">
-                <a href="https://elinah254.github.io/feb-2025-final-project-and-deployment-elinah254/" className="project-link">Live demo</a>
+                <a href="https://mindcare-hub-react.vercel.app/" className="project-link">Live demo</a>
                 
               </div>
             </div>
